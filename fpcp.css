@@ -5,7 +5,15 @@ html {
     margin: 0px;
     padding: 0px;
     overflow-x: hidden; 
-  }
+ }
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    list-style: none;
+}
 
 body {
     font-family: Arial,Helvetica Neue,Helvetica,sans-serif;
