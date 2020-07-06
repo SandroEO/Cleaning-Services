@@ -22,6 +22,12 @@ body {
     overflow-x: hidden; 
 }
 
+@media (min-width:768px){
+    .nav-item {
+      padding-right: 50px;
+    }
+  }
+
 .navbar {
     position: fixed !important;
     position: absolute;
