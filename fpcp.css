@@ -149,10 +149,8 @@ h3 a:hover{
   }
 
 .row::after {
-    content: "";
-    clear: both;
-    display: table;
-} 
+    display: inline-block;
+}
 
 #results {
     text-align: center;
