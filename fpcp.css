@@ -54,9 +54,9 @@ body {
     text-align: center;
 }
 
-.navbar-nav li{
-    display: inline-block;
-    float: none;
+li{
+    display: inline-block !important;
+    float: none !important;
 }
 
 .nav-link {
