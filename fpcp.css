@@ -28,9 +28,9 @@ body {
     width: auto;
     background-color: #3b3b3b;
     display: flex;
-/*     flex-wrap: wrap;
+    flex-wrap: wrap;
     justify-content: center;
-    align-items: center; */
+/*     align-items: center; */
     font-size: 1.2em
 }
 .nav-link {
