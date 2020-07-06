@@ -36,6 +36,16 @@ body {
     /* align-items: center; */
     font-size: 1.2em
 }
+
+@media (min-width: 567px) {
+    .abs-center-x {
+        position: absolute;
+        top: 5px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+}
+
 .nav-link {
     color: #f7f7f7;
 }
