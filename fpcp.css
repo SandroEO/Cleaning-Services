@@ -36,10 +36,10 @@ body {
     background-color: #3b3b3b;
     display: -webkit-box;
     display: -ms-flexbox;
-    display: -webkit-flex;
+/*     display: -webkit-flex;
     -webkit-flex-wrap: wrap;
     justify-content: center;
-    /* align-items: center; */
+    align-items: center; */
     font-size: 1.2em;
 }
 
